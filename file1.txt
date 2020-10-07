@@ -1,0 +1,2 @@
+this is file1
+about to be staged and committed
