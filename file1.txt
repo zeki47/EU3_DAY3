@@ -1,4 +1,0 @@
-this is file1
-about to be staged and committed
-
-//this is more changes that i want to push to github
